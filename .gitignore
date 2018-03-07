@@ -1,0 +1,4 @@
+﻿*.pdf
+*.pyc
+*/.ipynb_checkpoints/*.ipynb
+*/logs/*
